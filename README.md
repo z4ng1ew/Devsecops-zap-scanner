@@ -89,7 +89,7 @@
 
 ## 📸 Скриншоты
 
-<img src="./zap-img/zap-ui.png" width="800" alt="OWASP ZAP GUI Interface" />
+<img src="https://github.com/z4ng1ew/OWASP-ZAP-scann/tree/master/zap-img" width="800" alt="OWASP ZAP GUI Interface" />
 
 ## 📥 Запуск
 
